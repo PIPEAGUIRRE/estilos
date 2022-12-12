@@ -1,0 +1,46 @@
+/*
+Colores de mi sitio web
+primary: #10c45b
+secundary: #05423a
+light: #064e6d
+info: #317287
+*/
+
+.bg-primary{
+    background-color: #10c45b;
+}
+
+.text-light{
+    color: #064e6d;
+}
+
+.text-secondary{
+    color: #05423a;
+}
+
+.text-center{
+    text-align: center;
+}
+.text-right{
+    text-align: right;
+}
+
+.width-100{
+    width: 100px;
+}
+
+.bg-info{
+    background-color: #317287;
+}
+
+.text-primary{
+    color: #10c45b;
+}
+
+.text-white{
+    color: white;
+}
+
+.font-weight{
+    font-weight: 1000;
+}
